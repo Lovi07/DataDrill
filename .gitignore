@@ -1,0 +1,18 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+awsvenv/
+.env/
+
+# Streamlit and logs
+.streamlit/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
