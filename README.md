@@ -6,7 +6,7 @@ Natural language → SQL → Data Visualization with Streamlit + SQLite
 - Simple rule-based NLP parser
 - SQLite backend
 - Streamlit UI
-- Altair chart rendering
+- Plotly chart rendering
 
 ## Setup
 
